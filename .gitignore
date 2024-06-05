@@ -48,3 +48,5 @@ analysis_options.yaml
 .metadata
 pubspec.lock
 /web
+lib/config/firebase_config.dart
+lib/config/firebase_config.dart
